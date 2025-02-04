@@ -1,1 +1,1 @@
-Web pokedex
+Web simple pokedex
